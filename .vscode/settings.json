@@ -21,4 +21,5 @@
       "**/CVS": true
    },
    "terminal.integrated.gpuAcceleration": "canvas",
+   "git.inputValidation": "warn",
 }
